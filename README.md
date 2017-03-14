@@ -1,4 +1,6 @@
 # prismarine-entity
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/PrismarineJS/prismarine-entity.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/prismarine-entity.svg)](http://npmjs.com/package/prismarine-entity)
 
 Represent a minecraft entity
